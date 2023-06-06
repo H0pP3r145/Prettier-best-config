@@ -1,7 +1,6 @@
 # Prettier-best-config
 
 <code>
-
 {
   "arrowParens": "always",
   "bracketSameLine": true,
