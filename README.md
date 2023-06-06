@@ -1,7 +1,6 @@
 # Prettier-best-config
 
-<code>
-{
+<code>{
   "arrowParens": "always",
   "bracketSameLine": true,
   "bracketSpacing": true,
@@ -20,5 +19,4 @@
   "useTabs": false,
   "vueIndentScriptAndStyle": false,
   "printWidth": 130
-}
-</code>
+}</code>
