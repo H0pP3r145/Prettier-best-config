@@ -16,7 +16,7 @@
   "singleQuote": false,
   "tabWidth": 2,
   "trailingComma": "es5",
-  "useTabs": false,
+  "useTabs": true,
   "vueIndentScriptAndStyle": false,
   "printWidth": 130
 }</code>
